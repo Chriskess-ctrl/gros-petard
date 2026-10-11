@@ -1,0 +1,10 @@
+GROS PÉTARD — Version installable
+
+1. Décompresser cette archive.
+2. Sur GitHub, créer un dépôt public (attention : code de l’application public, pas vos données locales).
+3. Déposer les cinq fichiers index.html, manifest.webmanifest, sw.js, icon-192.png et icon-512.png à la racine du dépôt.
+4. Dans Settings > Pages, sélectionner Deploy from a branch, main, /(root), Save.
+5. Ouvrir l’URL HTTPS indiquée par GitHub Pages dans Chrome Android, puis ⋮ > Ajouter à l’écran d’accueil / Installer.
+6. Dans l’ancienne application, exporter la sauvegarde JSON, puis la restaurer dans la nouvelle application via ⚙️ Sauvegarde.
+
+Attention : les données sont stockées localement sur l’appareil, sans synchronisation. Faire des exports JSON réguliers.
